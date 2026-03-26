@@ -1,0 +1,13 @@
+{
+  "files": {
+    "categories/actors.json": 1,
+    "categories/history.json": 1,
+    "categories/music.json": 1,
+    "categories/food.json": 1,
+    "categories/animals.json": 1,
+    "categories/sports.json": 1,
+    "categories/science.json": 1,
+    "categories/geography.json": 1,
+    "config.json": 1
+  }
+}
