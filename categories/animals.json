@@ -1,6 +1,14 @@
 {
   "id": "animals",
-  "nameKey": "category_animals",
+  "names": {
+    "fr": "Animaux",
+    "en": "Animals",
+    "it": "Animali",
+    "es": "Animales",
+    "de": "Tiere",
+    "pt": "Animais",
+    "nl": "Dieren"
+  },
   "emoji": "🐾",
   "words": {
     "fr": [

@@ -1,6 +1,14 @@
 {
   "id": "science",
-  "nameKey": "category_science",
+  "names": {
+    "fr": "Science",
+    "en": "Science",
+    "it": "Scienza",
+    "es": "Ciencia",
+    "de": "Wissenschaft",
+    "pt": "Ciência",
+    "nl": "Wetenschap"
+  },
   "emoji": "🔬",
   "words": {
     "fr": [

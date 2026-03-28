@@ -1,11 +1,27 @@
 {
   "id": "actors",
-  "nameKey": "category_actors",
+  "names": {
+    "fr": "Acteurs",
+    "en": "Actors",
+    "it": "Attori",
+    "es": "Actores",
+    "de": "Schauspieler",
+    "pt": "Atores",
+    "nl": "Acteurs"
+  },
   "emoji": "🎬",
   "subcategories": [
     {
       "id": "actors_fr",
-      "nameKey": "category_actors_fr",
+      "names": {
+        "fr": "Acteurs Français",
+        "en": "French Actors",
+        "it": "Attori Francesi",
+        "es": "Actores Franceses",
+        "de": "Französische Schauspieler",
+        "pt": "Atores Franceses",
+        "nl": "Franse Acteurs"
+      },
       "emoji": "🇫🇷",
       "words": {
         "fr": [
@@ -166,7 +182,15 @@
     },
     {
       "id": "actors_us",
-      "nameKey": "category_actors_us",
+      "names": {
+        "fr": "Acteurs Américains",
+        "en": "American Actors",
+        "it": "Attori Americani",
+        "es": "Actores Americanos",
+        "de": "Amerikanische Schauspieler",
+        "pt": "Atores Americanos",
+        "nl": "Amerikaanse Acteurs"
+      },
       "emoji": "🇺🇸",
       "words": {
         "fr": [
@@ -327,7 +351,15 @@
     },
     {
       "id": "actors_uk",
-      "nameKey": "category_actors_uk",
+      "names": {
+        "fr": "Acteurs Britanniques",
+        "en": "British Actors",
+        "it": "Attori Britannici",
+        "es": "Actores Británicos",
+        "de": "Britische Schauspieler",
+        "pt": "Atores Britânicos",
+        "nl": "Britse Acteurs"
+      },
       "emoji": "🇬🇧",
       "words": {
         "fr": [
@@ -488,7 +520,15 @@
     },
     {
       "id": "actors_it",
-      "nameKey": "category_actors_it",
+      "names": {
+        "fr": "Acteurs Italiens",
+        "en": "Italian Actors",
+        "it": "Attori Italiani",
+        "es": "Actores Italianos",
+        "de": "Italienische Schauspieler",
+        "pt": "Atores Italianos",
+        "nl": "Italiaanse Acteurs"
+      },
       "emoji": "🇮🇹",
       "words": {
         "fr": [
@@ -649,7 +689,15 @@
     },
     {
       "id": "actors_es",
-      "nameKey": "category_actors_es",
+      "names": {
+        "fr": "Acteurs Espagnols",
+        "en": "Spanish Actors",
+        "it": "Attori Spagnoli",
+        "es": "Actores Españoles",
+        "de": "Spanische Schauspieler",
+        "pt": "Atores Espanhóis",
+        "nl": "Spaanse Acteurs"
+      },
       "emoji": "🇪🇸",
       "words": {
         "fr": [
@@ -810,7 +858,15 @@
     },
     {
       "id": "actors_de",
-      "nameKey": "category_actors_de",
+      "names": {
+        "fr": "Acteurs Allemands",
+        "en": "German Actors",
+        "it": "Attori Tedeschi",
+        "es": "Actores Alemanes",
+        "de": "Deutsche Schauspieler",
+        "pt": "Atores Alemães",
+        "nl": "Duitse Acteurs"
+      },
       "emoji": "🇩🇪",
       "words": {
         "fr": [
@@ -971,7 +1027,15 @@
     },
     {
       "id": "actors_bollywood",
-      "nameKey": "category_actors_bollywood",
+      "names": {
+        "fr": "Bollywood",
+        "en": "Bollywood",
+        "it": "Bollywood",
+        "es": "Bollywood",
+        "de": "Bollywood",
+        "pt": "Bollywood",
+        "nl": "Bollywood"
+      },
       "emoji": "🇮🇳",
       "words": {
         "fr": [
@@ -1132,7 +1196,15 @@
     },
     {
       "id": "actors_korea",
-      "nameKey": "category_actors_korea",
+      "names": {
+        "fr": "Acteurs Coréens",
+        "en": "Korean Actors",
+        "it": "Attori Coreani",
+        "es": "Actores Coreanos",
+        "de": "Koreanische Schauspieler",
+        "pt": "Atores Coreanos",
+        "nl": "Koreaanse Acteurs"
+      },
       "emoji": "🇰🇷",
       "words": {
         "fr": [

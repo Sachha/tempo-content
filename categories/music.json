@@ -1,11 +1,27 @@
 {
   "id": "music",
-  "nameKey": "category_music",
+  "names": {
+    "fr": "Musique",
+    "en": "Music",
+    "it": "Musica",
+    "es": "Música",
+    "de": "Musik",
+    "pt": "Música",
+    "nl": "Muziek"
+  },
   "emoji": "🎵",
   "subcategories": [
     {
       "id": "music_pop_rock",
-      "nameKey": "category_music_pop_rock",
+      "names": {
+        "fr": "Pop / Rock",
+        "en": "Pop / Rock",
+        "it": "Pop / Rock",
+        "es": "Pop / Rock",
+        "de": "Pop / Rock",
+        "pt": "Pop / Rock",
+        "nl": "Pop / Rock"
+      },
       "emoji": "🎸",
       "words": {
         "fr": [
@@ -166,7 +182,15 @@
     },
     {
       "id": "music_rap",
-      "nameKey": "category_music_rap",
+      "names": {
+        "fr": "Rap / Hip-Hop",
+        "en": "Rap / Hip-Hop",
+        "it": "Rap / Hip-Hop",
+        "es": "Rap / Hip-Hop",
+        "de": "Rap / Hip-Hop",
+        "pt": "Rap / Hip-Hop",
+        "nl": "Rap / Hip-Hop"
+      },
       "emoji": "🎤",
       "words": {
         "fr": [
@@ -327,7 +351,15 @@
     },
     {
       "id": "music_classical",
-      "nameKey": "category_music_classical",
+      "names": {
+        "fr": "Classique",
+        "en": "Classical",
+        "it": "Classica",
+        "es": "Clásica",
+        "de": "Klassik",
+        "pt": "Clássica",
+        "nl": "Klassiek"
+      },
       "emoji": "🎻",
       "words": {
         "fr": [
@@ -488,7 +520,15 @@
     },
     {
       "id": "music_electro",
-      "nameKey": "category_music_electro",
+      "names": {
+        "fr": "Électronique",
+        "en": "Electronic",
+        "it": "Elettronica",
+        "es": "Electrónica",
+        "de": "Elektronisch",
+        "pt": "Eletrónica",
+        "nl": "Elektronisch"
+      },
       "emoji": "🎧",
       "words": {
         "fr": [
@@ -649,7 +689,15 @@
     },
     {
       "id": "music_fr",
-      "nameKey": "category_music_fr",
+      "names": {
+        "fr": "Musique Française",
+        "en": "French Music",
+        "it": "Musica Francese",
+        "es": "Música Francesa",
+        "de": "Französische Musik",
+        "pt": "Música Francesa",
+        "nl": "Franse Muziek"
+      },
       "emoji": "🇫🇷",
       "words": {
         "fr": [
@@ -810,7 +858,15 @@
     },
     {
       "id": "music_us_uk",
-      "nameKey": "category_music_us_uk",
+      "names": {
+        "fr": "Musique US / UK",
+        "en": "US / UK Music",
+        "it": "Musica US / UK",
+        "es": "Música US / UK",
+        "de": "US / UK Musik",
+        "pt": "Música US / UK",
+        "nl": "US / UK Muziek"
+      },
       "emoji": "🇺🇸",
       "words": {
         "fr": [
@@ -971,7 +1027,15 @@
     },
     {
       "id": "music_latino",
-      "nameKey": "category_music_latino",
+      "names": {
+        "fr": "Latino",
+        "en": "Latino",
+        "it": "Latino",
+        "es": "Latino",
+        "de": "Latino",
+        "pt": "Latino",
+        "nl": "Latino"
+      },
       "emoji": "💃",
       "words": {
         "fr": [
@@ -1132,7 +1196,15 @@
     },
     {
       "id": "music_kpop",
-      "nameKey": "category_music_kpop",
+      "names": {
+        "fr": "K-Pop",
+        "en": "K-Pop",
+        "it": "K-Pop",
+        "es": "K-Pop",
+        "de": "K-Pop",
+        "pt": "K-Pop",
+        "nl": "K-Pop"
+      },
       "emoji": "🇰🇷",
       "words": {
         "fr": [

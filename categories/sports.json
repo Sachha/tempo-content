@@ -1,6 +1,14 @@
 {
   "id": "sports",
-  "nameKey": "category_sports",
+  "names": {
+    "fr": "Sports",
+    "en": "Sports",
+    "it": "Sport",
+    "es": "Deportes",
+    "de": "Sport",
+    "pt": "Desporto",
+    "nl": "Sport"
+  },
   "emoji": "⚽",
   "words": {
     "fr": [

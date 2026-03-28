@@ -1,6 +1,14 @@
 {
   "id": "geography",
-  "nameKey": "category_geography",
+  "names": {
+    "fr": "Géographie",
+    "en": "Geography",
+    "it": "Geografia",
+    "es": "Geografía",
+    "de": "Geographie",
+    "pt": "Geografia",
+    "nl": "Aardrijkskunde"
+  },
   "emoji": "🌍",
   "words": {
     "fr": [

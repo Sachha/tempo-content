@@ -1,11 +1,27 @@
 {
   "id": "history",
-  "nameKey": "category_history",
+  "names": {
+    "fr": "Histoire",
+    "en": "History",
+    "it": "Storia",
+    "es": "Historia",
+    "de": "Geschichte",
+    "pt": "História",
+    "nl": "Geschiedenis"
+  },
   "emoji": "📜",
   "subcategories": [
     {
       "id": "history_ancient",
-      "nameKey": "category_history_ancient",
+      "names": {
+        "fr": "Antiquité",
+        "en": "Antiquity",
+        "it": "Antichità",
+        "es": "Antigüedad",
+        "de": "Antike",
+        "pt": "Antiguidade",
+        "nl": "Oudheid"
+      },
       "emoji": "🏛️",
       "words": {
         "fr": [
@@ -166,7 +182,15 @@
     },
     {
       "id": "history_medieval",
-      "nameKey": "category_history_medieval",
+      "names": {
+        "fr": "Moyen-Âge",
+        "en": "Middle Ages",
+        "it": "Medioevo",
+        "es": "Edad Media",
+        "de": "Mittelalter",
+        "pt": "Idade Média",
+        "nl": "Middeleeuwen"
+      },
       "emoji": "⚔️",
       "words": {
         "fr": [
@@ -327,7 +351,15 @@
     },
     {
       "id": "history_modern",
-      "nameKey": "category_history_modern",
+      "names": {
+        "fr": "Époque Moderne",
+        "en": "Modern Era",
+        "it": "Età Moderna",
+        "es": "Edad Moderna",
+        "de": "Neuzeit",
+        "pt": "Idade Moderna",
+        "nl": "Moderne Tijd"
+      },
       "emoji": "🏭",
       "words": {
         "fr": [
@@ -488,7 +520,15 @@
     },
     {
       "id": "history_contemporary",
-      "nameKey": "category_history_contemporary",
+      "names": {
+        "fr": "Contemporain",
+        "en": "Contemporary",
+        "it": "Contemporaneo",
+        "es": "Contemporáneo",
+        "de": "Zeitgenössisch",
+        "pt": "Contemporâneo",
+        "nl": "Hedendaags"
+      },
       "emoji": "🌐",
       "words": {
         "fr": [

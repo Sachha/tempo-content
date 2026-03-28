@@ -1,11 +1,27 @@
 {
   "id": "food",
-  "nameKey": "category_food",
+  "names": {
+    "fr": "Gastronomie",
+    "en": "Food",
+    "it": "Gastronomia",
+    "es": "Gastronomía",
+    "de": "Gastronomie",
+    "pt": "Gastronomia",
+    "nl": "Gastronomie"
+  },
   "emoji": "🍕",
   "subcategories": [
     {
       "id": "food_fr",
-      "nameKey": "category_food_fr",
+      "names": {
+        "fr": "Cuisine Française",
+        "en": "French Cuisine",
+        "it": "Cucina Francese",
+        "es": "Cocina Francesa",
+        "de": "Französische Küche",
+        "pt": "Cozinha Francesa",
+        "nl": "Franse Keuken"
+      },
       "emoji": "🇫🇷",
       "words": {
         "fr": [
@@ -166,7 +182,15 @@
     },
     {
       "id": "food_it",
-      "nameKey": "category_food_it",
+      "names": {
+        "fr": "Cuisine Italienne",
+        "en": "Italian Cuisine",
+        "it": "Cucina Italiana",
+        "es": "Cocina Italiana",
+        "de": "Italienische Küche",
+        "pt": "Cozinha Italiana",
+        "nl": "Italiaanse Keuken"
+      },
       "emoji": "🇮🇹",
       "words": {
         "fr": [
@@ -327,7 +351,15 @@
     },
     {
       "id": "food_us",
-      "nameKey": "category_food_us",
+      "names": {
+        "fr": "Cuisine Américaine",
+        "en": "American Cuisine",
+        "it": "Cucina Americana",
+        "es": "Cocina Americana",
+        "de": "Amerikanische Küche",
+        "pt": "Cozinha Americana",
+        "nl": "Amerikaanse Keuken"
+      },
       "emoji": "🇺🇸",
       "words": {
         "fr": [
@@ -488,7 +520,15 @@
     },
     {
       "id": "food_asian",
-      "nameKey": "category_food_asian",
+      "names": {
+        "fr": "Cuisine Asiatique",
+        "en": "Asian Cuisine",
+        "it": "Cucina Asiatica",
+        "es": "Cocina Asiática",
+        "de": "Asiatische Küche",
+        "pt": "Cozinha Asiática",
+        "nl": "Aziatische Keuken"
+      },
       "emoji": "🥢",
       "words": {
         "fr": [
@@ -649,7 +689,15 @@
     },
     {
       "id": "food_mexican",
-      "nameKey": "category_food_mexican",
+      "names": {
+        "fr": "Cuisine Mexicaine",
+        "en": "Mexican Cuisine",
+        "it": "Cucina Messicana",
+        "es": "Cocina Mexicana",
+        "de": "Mexikanische Küche",
+        "pt": "Cozinha Mexicana",
+        "nl": "Mexicaanse Keuken"
+      },
       "emoji": "🇲🇽",
       "words": {
         "fr": [
@@ -810,7 +858,15 @@
     },
     {
       "id": "food_indian",
-      "nameKey": "category_food_indian",
+      "names": {
+        "fr": "Cuisine Indienne",
+        "en": "Indian Cuisine",
+        "it": "Cucina Indiana",
+        "es": "Cocina India",
+        "de": "Indische Küche",
+        "pt": "Cozinha Indiana",
+        "nl": "Indiase Keuken"
+      },
       "emoji": "🇮🇳",
       "words": {
         "fr": [

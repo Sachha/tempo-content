@@ -8,6 +8,16 @@
     "categories/sports.json": 1,
     "categories/science.json": 1,
     "categories/geography.json": 1,
+    "categories/movies.json": 1,
+    "categories/series.json": 1,
+    "categories/video_games.json": 1,
+    "categories/jobs.json": 1,
+    "categories/objects.json": 1,
+    "categories/nature.json": 1,
+    "categories/cartoons.json": 1,
+    "categories/fashion.json": 1,
+    "categories/fictional_characters.json": 1,
+    "categories/emotions_actions.json": 1,
     "config.json": 1
   }
 }
