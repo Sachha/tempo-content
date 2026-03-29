@@ -19,6 +19,11 @@
     "categories/fictional_characters.json": 2,
     "categories/emotions_actions.json": 2,
     "categories/politics.json": 2,
+    "categories/brands.json": 1,
+    "categories/landmarks.json": 1,
+    "categories/expressions.json": 1,
+    "categories/mythology.json": 1,
+    "categories/literature.json": 1,
     "config.json": 3
   }
 }
